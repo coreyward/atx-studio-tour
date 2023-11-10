@@ -13,7 +13,7 @@
     "@sanity/default-login": "^2.21.9",
     "@sanity/desk-tool": "^2.21.9",
     "@sanity/vision": "^2.21.9",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "node-html-parser": "^5.1.0",
     "prop-types": "^15.7",
     "react": "^17.0",
